@@ -24,7 +24,7 @@ h1, h2 {
 }
 .buynow{
   height: 50px;
-  width: 125px;
+  width: 150px;
   background-color: rgb(75, 16, 16);
   color: goldenrod;
   font-size: 20px;
@@ -43,4 +43,10 @@ h1, h2 {
   padding: 0px;
   border: 0px;
   color: black;
+}
+.butt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
 }

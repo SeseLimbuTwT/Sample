@@ -1,7 +1,12 @@
 h1,h2{
   font-family: 'Baloo 2', cursive;
+  color: #3B2A21;
 }
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: blueviolet;
+  background-color: #F8F5F0;
+  color: #444444;
+}
+.button{
+  background-color: #9C6B3E;
 }

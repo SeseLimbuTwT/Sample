@@ -28,8 +28,11 @@ body {
 .itemcont{
   display: flex;
   align-items: center;
+  text-align: center;
 }
 .box{
   align-content: center;
-  
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
 }

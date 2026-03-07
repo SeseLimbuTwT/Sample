@@ -25,6 +25,7 @@ body {
   align-items: center;
   text-align: center;
   justify-content: center;
+  flex-direction: column;
 }
 .itemcont{
   display: flex;
@@ -36,4 +37,7 @@ body {
   font-weight: bold;
   text-align: center;
   justify-content: center;
+}
+.button{
+  cursor: pointer;
 }

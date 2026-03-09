@@ -59,3 +59,7 @@ body {
   border: 0px;
   padding: 0px;
 }
+.button:hover{
+  background-color: coral;
+  transition: 0.5s;
+}

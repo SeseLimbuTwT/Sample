@@ -52,6 +52,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 40px;
+}
+.nav h1{
+  width: 100px;
+  text-align: center;
+  margin: 0px;
 }
 .navitem{
   font-weight: bold;

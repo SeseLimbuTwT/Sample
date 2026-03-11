@@ -65,6 +65,12 @@ body {
   border: 0px;
   padding: 0px;
 }
+.navitem:hover{
+  background-color: #8A9A5B;
+  color: lightblue;
+  cursor: pointer;
+  border-radius: 10px;
+}
 .button:hover{
   background-color: coral;
   transition: 0.5s;

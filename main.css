@@ -50,3 +50,8 @@ h1, h2 {
   align-items: center;
   height: 100px;
 }
+.control, .control th, .control td {
+  border: 3px solid;
+  border-collapse: collapse;
+  width: 300px;
+}

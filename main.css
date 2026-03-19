@@ -50,6 +50,11 @@ h1, h2 {
   align-items: center;
   height: 100px;
 }
+.buynow:hover{
+  background-color: wheat;
+  color: coral;
+  transition: 500ms;
+}
 .control, .control th, .control td {
   border: 3px solid;
   border-collapse: collapse;

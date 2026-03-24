@@ -4,3 +4,4 @@ I am trying to make a webpage with the things I have learned so far.
 
 TO DO LIST
 need to make the buttons liked together
+need to fix the background of items in the potside

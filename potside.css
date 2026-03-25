@@ -53,6 +53,9 @@ body {
   justify-content: center;
   cursor: grab;
 }
+.box:active{
+  cursor: grabbing;
+}
 .button{
   cursor: pointer;
   margin-top: 5px;

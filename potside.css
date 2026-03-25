@@ -40,7 +40,6 @@ body {
   0 0 10px #0ff,
   0 0 20px #0ff,
   0 0 40px #0ff;
-  cursor: grab;
 }
 .itemcont{
   display: flex;
@@ -52,6 +51,7 @@ body {
   font-weight: bold;
   text-align: center;
   justify-content: center;
+  cursor: grab;
 }
 .button{
   cursor: pointer;

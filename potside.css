@@ -87,10 +87,16 @@ body {
 }
 .navitem:hover{
   background-color: #8A9A5B;
-  color: lightblue;
+  width: 150px;
+  color: #8A9A5B;
   cursor: pointer;
   border-radius: 10px;
-  width: auto;
+  transition: 0.3s ease;
+  text-shadow: 
+  0 0 5px #fff,
+  0 0 10px #0ff,
+  0 0 20px #0ff,
+  0 0 40px #0ff;
 }
 .button:hover{
   background-color: coral;

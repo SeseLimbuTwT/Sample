@@ -6,3 +6,4 @@ TO DO LIST
 need to make the buttons liked together
 need to assign navbar items
 make more content to assgin nav to
+make table care more responsive

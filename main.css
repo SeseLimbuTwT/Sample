@@ -54,6 +54,11 @@ h1, h2 {
   background-color: wheat;
   color: coral;
   transition: 500ms;
+  text-shadow: 
+  0 0 5px #fff,
+  0 0 10px #0ff,
+  0 0 20px #0ff,
+  0 0 40px #0ff;
 }
 .control, .control th, .control td {
   border: 3px solid;

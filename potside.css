@@ -28,9 +28,10 @@ body {
   text-align: center;
   justify-content: center;
   flex-direction: column;
-  background-color: lightblue;
+  background-color: lightsalmon;
   font-weight: bold;
   border-radius: 8px;
+  margin-top: 20px;
 }
 .item:hover{
   color: peru;
@@ -40,6 +41,8 @@ body {
   0 0 10px #0ff,
   0 0 20px #0ff,
   0 0 40px #0ff;
+  transform: translateY(-10px);
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);
 }
 .itemcont{
   display: grid;

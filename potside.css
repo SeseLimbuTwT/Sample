@@ -124,9 +124,13 @@ body {
   background-color: dimgray;
   border-radius: 8px;
   color: coral;
+  font-weight: bold;
 }
 .socbut{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 8px 10px;
+  gap: 10px;
+  margin-bottom: 30px;
 }

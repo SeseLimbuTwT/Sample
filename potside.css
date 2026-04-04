@@ -120,13 +120,18 @@ body {
   margin-bottom: 2px;
   color: peru;
 }
-.social{
+.socbut{
   background-color: dimgray;
-  border-radius: 8px;
+  border-radius: 5px;
   color: coral;
   font-weight: bold;
+  height: 1.4rem;
+  width: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.socbut{
+.social{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;

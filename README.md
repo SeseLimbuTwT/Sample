@@ -8,3 +8,5 @@ make more content to assgin nav to
 make the nav bar more resposive
 need to make pages into sections
 on click of buy make a pop up added to cart
+need to add animation to the nav bar
+need to make the fade in and out for the sections

@@ -8,4 +8,3 @@ make more content to assgin nav to
 make the nav bar more resposive
 need to make pages into sections
 on click of buy make a pop up added to cart
-need to fix the contact thing

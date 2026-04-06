@@ -140,3 +140,9 @@ body {
   gap: 10px;
   margin-bottom: 30px;
 }
+.form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

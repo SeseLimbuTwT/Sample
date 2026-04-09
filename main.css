@@ -69,7 +69,7 @@ h1, h2 {
 .stats, .stats th, .stats td{
   border: 3px solid;
   border-collapse: collapse;
-  width: 800px;
+  width: 1000px;
   margin-top: 20px;
   margin-left: 40px;
 }

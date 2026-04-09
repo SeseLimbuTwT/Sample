@@ -73,6 +73,12 @@ h1, h2 {
   margin-top: 20px;
   margin-left: 40px;
 }
+.tabe{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 .tabcon{
   text-align: center;
 }

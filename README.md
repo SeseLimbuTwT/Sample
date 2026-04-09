@@ -11,3 +11,4 @@ on click of buy make a pop up added to cart
 need to add animation to the nav bar
 need to make the fade in and out for the sections
 need to add script flies to the files
+update the sections 

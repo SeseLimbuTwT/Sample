@@ -63,7 +63,7 @@ h1, h2 {
 .control, .control th, .control td {
   border: 3px solid;
   border-collapse: collapse;
-  width: 300px;
+  width: 350px;
   margin-left: 40px;
 }
 .stats, .stats th, .stats td{

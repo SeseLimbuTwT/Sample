@@ -140,6 +140,10 @@ body {
   gap: 10px;
   margin-bottom: 30px;
 }
+.socbut:hover{
+  transform: translateY(-3px);
+  opacity: 0.9;
+}
 .form{
   display: flex;
   justify-content: center;

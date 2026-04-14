@@ -13,4 +13,4 @@ need to make the fade in and out for the sections
 need to add script flies to the files
 update the sections 
 fix the schedule
-limited screen time
+limited screen time(2-2.5hours)

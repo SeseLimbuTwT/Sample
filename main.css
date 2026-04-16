@@ -7,6 +7,9 @@ body{
 h1, h2 {
   font-family: 'Fredoka', sans-serif;
 }
+.info{
+  text-align: center;
+}
 .titlefortato{
   font-family: 'Fredoka', sans-serif;
 }

@@ -75,6 +75,7 @@ h1, h2 {
   width: 1000px;
   margin-top: 20px;
   margin-left: 40px;
+  margin-right: 40px;
 }
 .tabe{
   display: flex;

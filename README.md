@@ -14,3 +14,4 @@ need to add script flies to the files
 update the sections 
 fix the schedule
 limited screen time(2-2.5hours)
+add more thing
